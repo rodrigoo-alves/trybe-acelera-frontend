@@ -1,6 +1,6 @@
 import { describe, expect, test } from 'vitest';
 import { render, screen } from '@testing-library/react';
-import Login from '../pages/Login';
+import Login from '../src/pages/Login';
 import { MemoryRouter } from 'react-router-dom';
 describe('Teste da tela de Login', () => {
 

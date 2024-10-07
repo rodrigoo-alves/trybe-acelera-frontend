@@ -15,7 +15,7 @@ function TodoList() {
         if (!todos.length) {
             getTodos();
         }
-    },[]);
+    },[getTodos, todos.length]);
 
     function handleChange(task: Todo) {
         editTodos({...task, checked: !task.checked})
