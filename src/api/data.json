@@ -3,41 +3,71 @@
     {
       "id": "1",
       "value": "estudar react",
-      "checked": true
+      "checked": false
     },
     {
       "id": "2",
       "value": "estudar node",
-      "checked": true
+      "checked": false
     },
     {
       "id": "3",
       "value": "estudar python",
-      "checked": true
+      "checked": false
     },
     {
       "id": "4",
       "value": "estudar Java",
-      "checked": true
+      "checked": false
     },
     {
       "id": "5",
       "value": "estudar Android",
-      "checked": true
+      "checked": false
     },
     {
       "id": "6",
       "value": "estudar C#",
-      "checked": true
+      "checked": false
     },
     {
       "id": "7",
       "value": "Revisar Front-End",
-      "checked": true
+      "checked": false
     },
     {
       "id": "8",
       "value": "Revisar Back-End",
+      "checked": false
+    },
+    {
+      "id": "af2f",
+      "value": "nova tarefa",
+      "checked": false
+    },
+    {
+      "id": "729a",
+      "value": "tarefa alert",
+      "checked": false
+    },
+    {
+      "id": "19ff",
+      "value": "nova tarefa teste",
+      "checked": false
+    },
+    {
+      "id": "f919",
+      "value": "tarefa sem alert",
+      "checked": false
+    },
+    {
+      "id": "e51f",
+      "value": "teste",
+      "checked": false
+    },
+    {
+      "id": "a4e3",
+      "value": "abacaxi",
       "checked": true
     }
   ]
